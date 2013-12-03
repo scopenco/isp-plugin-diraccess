@@ -13,9 +13,12 @@ Installing
 
 > killall -9 ispmgr
 
+Testing
+----------
+Tested on CentOS 6.
+
 Questions?
 ----------
-
 If you have questions or problems getting things
 working, first try searching wiki.
 
