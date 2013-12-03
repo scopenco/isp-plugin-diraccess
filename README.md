@@ -8,7 +8,9 @@ There is a bug in ISPmanager with scheme where nginx and apache+itk is used. Pri
 Installing
 ----------
 > cp -v etc/ispmgr_mod_diraccess_fix.xml /usr/local/ispmgr/etc/
+
 > cp -v addon/diraccess_fix_perms.py /usr/local/ispmgr/addon/
+
 > killall -9 ispmgr
 
 Questions?
