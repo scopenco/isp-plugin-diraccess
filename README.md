@@ -3,6 +3,8 @@ isp-plugin-diraccess
 
 Documentation
 --------
+Russian description at http://blog.scopenco.net/ispmanager-plugin-diraccess/
+
 There is a bug in ISPmanager with scheme where nginx and apache+itk is used. Private directories are not accesible because config files passwd and .htaccess are created with wrong permissions. This plugin fixes the problem.
 
 Installing
